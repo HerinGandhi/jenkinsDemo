@@ -1,2 +1,0 @@
-com.example.mvc.DemoController=org.springframework.stereotype.Component
-com.example.mvc.FormDemoController=org.springframework.stereotype.Component
